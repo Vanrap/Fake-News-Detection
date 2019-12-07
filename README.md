@@ -1,2 +1,3 @@
 # Fake-News-Detection
-In this project, I developed a deep learning model that automatically predicts whether a given website or article is fake or not. This project uses deep NLP (natural language processing) to tackle the big problems of fake news and propaganda in today's world. It achieves an accuracy of approximately 97% in classifying websites as fake or not.
+
+Fake News detection project created with the help of Tarun papraju (https://github.com/SriRangaTarun/Fake-News-Detection) for the Stanford Inspirit AI scholars camp. This project uses Natural Language Processsing to detect whether a news article is fake based on its HTML source code.
